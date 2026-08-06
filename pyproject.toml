@@ -8,7 +8,7 @@ license = "MIT"
 
 authors = [{ name = "yamamo-i" }]
 dependencies = [
-    "asyncclick==8.3.0.7",    # https://pypi.org/project/asyncclick/
+    "asyncclick==8.4.2.1",    # https://pypi.org/project/asyncclick/
     "beautifulsoup4==4.14.3", # https://pypi.org/project/beautifulsoup4/
     "requests==2.33.1",       # https://pypi.org/project/requests/
 ]
